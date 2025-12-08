@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sai Keerthi Ambati</h1>
+<h3 align="center">MCA Student | Learning AI, ML & NLP</h3>
 
-<!--
-**saikeerthiambati/saikeerthiambati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently pursuing **Master of Computer Applications**
+- 🌱 Learning **Python, Java, NLP, Machine Learning**
+- 🤖 Interested in **AI & ML Engineering**
+- 💡 Beginner in Machine Learning models
+- 👨‍💻 Exploring Data Analysis and AI use cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills / Technologies
+
+#### 💻 Programming Languages
+Python | Java | C | JavaScript | SQL  
+
+#### 🗄 Databases
+SQL | MySQL  
+
+#### 🤖 AI & ML (Learning)
+NLP | Machine Learning | Data Preprocessing  
+
+#### 🧰 Tools
+VS Code | Jupyter Notebook | Google Colab  
+
+---
+
+## 🌟 Projects
+
+### 🔹 AI Powered Smart Email Classifier *(In Progress)*
+Machine Learning model for spam detection and email classification  
+
+---
+
+### 🍽️ Flavor Hub — A Food Recipe Sharing Website  
+Interactive recipe sharing system  
+🔗 https://github.com/saikeerthiambati/Flavor-Hub---A-Food-Recipe-Sharing-Website  
+
+---
+
+### 📊 Student Exam Performance Analysis  
+Python-based data analysis project  
+🔗 https://github.com/saikeerthiambati/Student-Exam-Performance-Analysis  
+
+---
+
+### 🖥 University Library Management System
+Java-based desktop application using SQL  
+🔒 Private project  
+
+---
+
+### 🌐 Connect With Me  
+www.linkedin.com/in/sai-keerthi-ambati
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saikeerthiambati&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikeerthiambati&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile!* 😊
