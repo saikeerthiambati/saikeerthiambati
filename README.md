@@ -56,15 +56,4 @@ Java-based desktop application using SQL
 ## 🌐 Connect With Me  
 🔗 https://www.linkedin.com/in/sai-keerthi-ambati  
 
----
-
-## 📈 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saikeerthiambati&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=saikeerthiambati&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
-
----
-
 ⭐ Thanks for visiting my profile 😊
