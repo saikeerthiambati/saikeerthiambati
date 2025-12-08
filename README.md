@@ -60,9 +60,10 @@ Java-based desktop application using SQL
 
 ## 📈 GitHub Analytics
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saikeerthiambati&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikeerthiambati&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saikeerthiambati&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikeerthiambati&theme=tokyonight"/>
 </p>
+
 
 ---
 
