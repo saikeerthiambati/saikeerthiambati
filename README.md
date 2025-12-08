@@ -3,39 +3,39 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Currently pursuing **Master of Computer Applications**
-- 🌱 Learning **Python, Java, NLP, Machine Learning**
-- 🤖 Interested in **AI & ML Engineering**
-- 💡 Beginner in Machine Learning models
-- 👨‍💻 Exploring Data Analysis and AI use cases
+## 📌 About Me  
+- 🎓 Pursuing Master of Computer Applications  
+- 🔥 Learning Python, Java, NLP & Machine Learning  
+- 🤖 Interested in AI & ML Engineering  
+- 🔍 Beginner in ML models  
+- 📊 Exploring Data Analysis & AI use cases  
 
 ---
 
-### 🛠 Skills / Technologies
+## 🛠 Skills / Technologies
 
-#### 💻 Programming Languages
+### 💻 Programming Languages  
 Python | Java | C | JavaScript | SQL  
 
-#### 🗄 Databases
+### 🗄 Databases  
 SQL | MySQL  
 
-#### 🤖 AI & ML (Learning)
+### 🤖 AI & ML (Learning)  
 NLP | Machine Learning | Data Preprocessing  
 
-#### 🧰 Tools
+### 🧰 Tools  
 VS Code | Jupyter Notebook | Google Colab  
 
 ---
 
-## 🌟 Projects
+## 🚀 Projects
 
-### 🔹 AI Powered Smart Email Classifier *(In Progress)*
-Machine Learning model for spam detection and email classification  
+### 🔹 AI Powered Smart Email Classifier *(In Progress)*  
+Machine Learning model for spam detection & email classification  
 
 ---
 
-### 🍽️ Flavor Hub — A Food Recipe Sharing Website  
+### 🍽 Flavor Hub — A Food Recipe Sharing Website  
 Interactive recipe sharing system  
 🔗 https://github.com/saikeerthiambati/Flavor-Hub---A-Food-Recipe-Sharing-Website  
 
@@ -47,18 +47,18 @@ Python-based data analysis project
 
 ---
 
-### 🖥 University Library Management System
+### 🖥 University Library Management System  
 Java-based desktop application using SQL  
 🔒 Private project  
 
 ---
 
-### 🌐 Connect With Me  
-www.linkedin.com/in/sai-keerthi-ambati
+## 🌐 Connect With Me  
+🔗 https://www.linkedin.com/in/sai-keerthi-ambati  
 
 ---
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saikeerthiambati&show_icons=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikeerthiambati&theme=tokyonight" />
@@ -66,4 +66,4 @@ www.linkedin.com/in/sai-keerthi-ambati
 
 ---
 
-⭐ *Thanks for visiting my profile!* 😊
+⭐ Thanks for visiting my profile 😊
