@@ -64,7 +64,6 @@ Java-based desktop application using SQL
   <img width="48%" src="https://streak-stats.demolab.com/?user=saikeerthiambati&theme=tokyonight" />
 </p>
 
-
 ---
 
 ⭐ Thanks for visiting my profile 😊
