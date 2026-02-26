@@ -30,7 +30,7 @@ VS Code | Jupyter Notebook | Google Colab
 
 ## 🚀 Projects
 
-### 🔹 AI Powered Smart Email Classifier *(In Progress)*  
+### 🔹 AI Powered Smart Email Classifier 
 Machine Learning model for spam detection & email classification  
 
 ---
