@@ -33,6 +33,8 @@ VS Code | Jupyter Notebook | Google Colab
 ### 🔹 AI Powered Smart Email Classifier 
 Machine Learning model for spam detection & email classification  
 
+🔗 https://github.com/saikeerthiambati/AI-Powered-Smart-Email-Classifier-for-Enterprises
+
 ---
 
 ### 🍽 Flavor Hub — A Food Recipe Sharing Website  
